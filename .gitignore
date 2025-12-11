@@ -1,0 +1,51 @@
+# ========== Unity basics ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Recording & Capture
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset Store tools
+[Aa]ssets/AssetStoreTools*
+
+# ========== IDE / Editor ==========
+# VS / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.usersettings
+
+# VSCode (VSCode configuration)
+.vscode/
+
+# ========== Platform construction product ==========
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+Pods/
+
+# ========== System files ==========
+.DS_Store
+Thumbs.db
+
+# ========== Other caches ==========
+[Ss]ysinfo/
+ExportedObj/
