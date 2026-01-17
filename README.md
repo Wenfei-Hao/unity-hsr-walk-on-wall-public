@@ -6,6 +6,17 @@ The demo shows a player character walking from floor to wall to spherical surfac
 
 ---
 
+## 🎥 Demo Video & Screenshot
+
+- **Demo video:** <https://drive.google.com/file/d/1-IwvvOIVCXhUZzgv1tHCg-Q6fwqQ6ebU/view?usp=share_link>
+  - Quick look at curved-surface movement, local-up camera behavior, and plane-aware enemy chasing.
+
+![Walk-on-wall demo](README-assets/walkonwall-demo.png)
+
+*In this frame, the player is walking along a curved surface from one plane to another. As the player leaves the enemy’s plane, the yellow alert bar above the enemy gradually drains, indicating that the enemy is losing sight of the target.*
+
+---
+
 ## ✨ Key Features
 
 - **Curved-Surface Locomotion (Fake Gravity)**
